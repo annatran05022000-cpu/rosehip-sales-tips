@@ -1,0 +1,16 @@
+
+baseURL = "/"
+languageCode = "en-us"
+title = "Rosehip Sales Tips"
+theme = "custom"
+
+[params]
+  description = "Sales tips, cold calling scripts, and pipeline management for B2B reps and founders."
+  author = "Editorial Team"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
