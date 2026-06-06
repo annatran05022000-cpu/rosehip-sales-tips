@@ -1,4 +1,9 @@
 ---
+image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=800&h=450&fit=crop&auto=format&q=80"
+cover:
+  image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=800&h=450&fit=crop&auto=format&q=80"
+  alt: "cover"
+  relative: false
 title: "Welcome to Rosehip Sales Tips"
 date: 2026-06-01
 description: "Sales tips, cold calling scripts, and pipeline management for B2B reps and founders."
